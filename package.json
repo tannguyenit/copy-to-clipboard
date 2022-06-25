@@ -1,0 +1,24 @@
+{
+  "name": "handy-copy-to-clipboard",
+  "version": "1.0.1",
+  "description": "A handy way to copy anything to clipboard!!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannguyenit/copy-to-clipboard.git"
+  },
+  "keywords": [
+    "handy",
+    "copy-to-clipboard",
+    "copy",
+    "clipboard",
+    "tannguyenit"
+  ],
+  "author": "tannguyenit <tannguyenit95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannguyenit/copy-to-clipboard/issues"
+  },
+  "homepage": "https://github.com/tannguyenit/copy-to-clipboard#readme"
+}
